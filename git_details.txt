@@ -1,4 +1,4 @@
-git clone ssh://john@example.com/path/to/my-project.git 
+git clone https://github.com/SusmitaOjha-Redapple/demo_file.git
 cd my-project 
 # Start working on the project
 
