@@ -1,4 +1,5 @@
-git clone https://github.com/SusmitaOjha-Redapple/demo_file.git
+git clone ssh://john@example.com/path/to/my-project.git 
+
 cd my-project 
 # Start working on the project
 
@@ -14,3 +15,26 @@ sudo apt install git
 
 git --version
 
+
+
+
+
+--------------------------------------------------
+//create new branch
+git branch
+* master
+git checkout -b development
+Switched to a new branch 'development'
+git branch
+* development
+  master
+
+//git push
+git add .
+git commit -development "commit message"
+git status
+git commit -m "commit message"
+git status
+git push origin development 
+
+khelo ludo repo -- https://github.com/Redapple2014/KheloLudo.git
