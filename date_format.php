@@ -21,3 +21,9 @@ function news_get_by_id ( $news_id )
     }
 
 }   
+
+https://www.tutsmake.com/import-data-from-excel-csv-to-mysql-using-codeigniter/
+
+Go to the lampp root folder 
+open terminal and write commands => sudo /opt/lampp/lampp start
+and enter system password.
